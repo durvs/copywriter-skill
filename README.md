@@ -50,8 +50,8 @@ Pronto. O comando `/copywriter` fica disponivel automaticamente.
 No Claude Code, chame:
 
 ```
-/copywriter Escreva o hero de uma landing page para um app de gestao condominial.
-O publico sao administradoras de condominios. Tom profissional mas acessivel.
+/copywriter Escreva o hero de uma landing page para um SaaS de automacao de atendimento.
+O publico sao pequenas e medias empresas. Tom profissional mas acessivel.
 ```
 
 O skill vai:
