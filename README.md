@@ -40,8 +40,7 @@ Transforma o Claude em um copywriter profissional que domina frameworks clássic
 Clone este repositorio na pasta de skills do Claude Code:
 
 ```bash
-cd ~/.claude/skills
-git clone https://github.com/durvs/copywriter-skill.git copywriter
+git clone https://github.com/durvs/copywriter-skill.git ~/.claude/skills/copywriter
 ```
 
 Pronto. O comando `/copywriter` fica disponivel automaticamente.
