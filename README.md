@@ -41,7 +41,7 @@ Clone este repositorio na pasta de skills do Claude Code:
 
 ```bash
 cd ~/.claude/skills
-git clone https://github.com/durvalmoreira/copywriter-skill.git copywriter
+git clone https://github.com/durvs/copywriter-skill.git copywriter
 ```
 
 Pronto. O comando `/copywriter` fica disponivel automaticamente.
